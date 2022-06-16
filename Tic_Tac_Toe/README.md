@@ -1,3 +1,5 @@
+# Tic Tac Toe
+
 Strategy for WhateverPlayer:
 Passing all board and insert all of the empty squares to a new array.
 When we have an array just with empty squares all we need to do is to
